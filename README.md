@@ -1,2 +1,2 @@
 # GO-Database
-Creating a basic fundamental database with GO.
+Implementing a B Tree to understand the logic of GO.
